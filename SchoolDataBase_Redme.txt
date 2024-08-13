@@ -1,0 +1,33 @@
+  Project Name: School Management System
+  Create By Md. Nurur Rahaman (Shojeb)
+  Trainee ID :1279896
+  Round 57
+  Batch ID: CS/NVIT-M/57/01
+
+
+
+This project creation and management of a database for an School Management System using SQL Server. 
+This School Management System includes some tables like Admission,Teachers,Classes,Section,Department,
+Subjects,Class_Schedule,Attendance,Fee,Exam,Result,Registration.
+
+Project Structure
+Database: Contains the SQL scripts for creating the database for coustom properties and modifay this.
+Data: Contains sample data for the database tables.
+Documentation: Contains this readme file and other project documentation.
+
+Prerequisites:
+ SQL Server 2019 or later SQL Server Management Studio Installation
+
+
+Create a new SQL Server database.
+Import the SQL scripts from the Database folder into the database.
+Import the sample data from the Data folder into the database tables.
+Usage
+You can use SQL Server Management Studio to manage the database and perform tasks such as:
+
+Creating and editing Student information
+Creating and editing teacher information
+Admission data and Class details  
+Exam, and Result history
+Registration information 
+and some other information include in this project.
